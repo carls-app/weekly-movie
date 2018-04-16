@@ -1,0 +1,34 @@
+{
+  "trailers": [
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "QkJ5H_LnRTY",
+      "name": "Call Me by Your Name HD",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip",
+      "url": "https://www.youtube.com/watch?v=QkJ5H_LnRTY"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "qCbTlUXlESU",
+      "name": "Call Me By Your Name — New Clip",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip",
+      "url": "https://www.youtube.com/watch?v=qCbTlUXlESU"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "Z9AYPxH5NTM",
+      "name": "Call Me By Your Name | Official Trailer HD (2017)",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "url": "https://www.youtube.com/watch?v=Z9AYPxH5NTM"
+    }
+  ]
+}
