@@ -119,6 +119,16 @@
       "size": 1080,
       "type": "Clip",
       "url": "https://www.youtube.com/watch?v=u0SBlLWNe5s"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "dxWvtMOGAhw",
+      "name": "Black Panther Teaser Trailer [HD]",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "url": "https://www.youtube.com/watch?v=dxWvtMOGAhw"
     }
   ]
 }
