@@ -1,0 +1,40 @@
+{
+  "Title": "Sorry to Bother You",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "13 Jul 2018",
+  "Runtime": "111 min",
+  "Genre": "Comedy, Fantasy, Sci-Fi",
+  "Director": "Boots Riley",
+  "Writer": "Boots Riley",
+  "Actors": "Lakeith Stanfield, Tessa Thompson, Jermaine Fowler, Omari Hardwick",
+  "Plot": "In an alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success, propelling him into a universe of greed.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "1 nomination.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzdiMWI1NWUtY2QwMS00MDQ0LTg3OGQtNTlmNDFmZjcxMTczXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "7.4",
+  "imdbVotes": "8,582",
+  "imdbID": "tt5688932",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "Annapurna Pictures",
+  "Website": "http://sorrytobotheryou.movie/",
+  "Response": "True"
+}
