@@ -1,0 +1,34 @@
+{
+  "trailers": [
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "O9Y7DTCn7Cc",
+      "name": "First Man - Official Trailer (HD)",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "url": "https://www.youtube.com/watch?v=O9Y7DTCn7Cc"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "w4GtJB5WAlQ",
+      "name": "First Man - Official Trailer #2 [HD]",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "url": "https://www.youtube.com/watch?v=w4GtJB5WAlQ"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "TVowQ4LgwLk",
+      "name": "First Man - Official Trailer #3 [HD]",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "url": "https://www.youtube.com/watch?v=TVowQ4LgwLk"
+    }
+  ]
+}
