@@ -16,7 +16,7 @@
   "Ratings": [
     {
       "Source": "Internet Movie Database",
-      "Value": "8.1/10"
+      "Value": "8.0/10"
     },
     {
       "Source": "Metacritic",
@@ -24,8 +24,8 @@
     }
   ],
   "Metascore": "93",
-  "imdbRating": "8.1",
-  "imdbVotes": "24,867",
+  "imdbRating": "8.0",
+  "imdbVotes": "28,091",
   "imdbID": "tt8075192",
   "Type": "movie",
   "DVD": "N/A",
