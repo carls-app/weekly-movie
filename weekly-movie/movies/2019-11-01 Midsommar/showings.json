@@ -1,0 +1,32 @@
+{
+  "showings": [
+    {
+      "date": "2019-11-01",
+      "location": "Weitz Cinema",
+      "times": [
+        "19:00"
+      ]
+    },
+    {
+      "date": "2019-11-02",
+      "location": "Weitz Cinema",
+      "times": [
+        "19:00"
+      ]
+    },
+    {
+      "date": "2019-11-01",
+      "location": "Boliou Hall 104",
+      "times": [
+        "22:00"
+      ]
+    },
+    {
+      "date": "2019-11-02",
+      "location": "Boliou Hall 104",
+      "times": [
+        "22:00"
+      ]
+    }
+  ]
+}

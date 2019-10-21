@@ -1,0 +1,54 @@
+{
+  "trailers": [
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "I0UWIya-O0s",
+      "name": "Teaser Trailer",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser",
+      "url": "https://www.youtube.com/watch?v=I0UWIya-O0s"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "1Vnghdsjmd0",
+      "name": "Trailer",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "url": "https://www.youtube.com/watch?v=1Vnghdsjmd0"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "qQ3qxTIsOhQ",
+      "name": "“Win Couples Therapy”",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser",
+      "url": "https://www.youtube.com/watch?v=qQ3qxTIsOhQ"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "CCrkiJFJGMA",
+      "name": "The Director's Cut Promo",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser",
+      "url": "https://www.youtube.com/watch?v=CCrkiJFJGMA"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "elNrBRG0wPA",
+      "name": "“Happy Midsummer!”",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser",
+      "url": "https://www.youtube.com/watch?v=elNrBRG0wPA"
+    }
+  ]
+}
