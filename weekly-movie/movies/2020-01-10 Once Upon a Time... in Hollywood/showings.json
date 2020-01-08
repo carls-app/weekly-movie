@@ -1,0 +1,20 @@
+{
+  "showings": [
+    {
+      "date": "2020-01-10",
+      "location": "Weitz Cinema",
+      "times": [
+        "19:00",
+        "22:00"
+      ]
+    },
+    {
+      "date": "2020-01-11",
+      "location": "Weitz Cinema",
+      "times": [
+        "19:00",
+        "22:00"
+      ]
+    }
+  ]
+}
