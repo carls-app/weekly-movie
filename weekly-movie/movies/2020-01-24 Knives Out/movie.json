@@ -3,7 +3,7 @@
   "Year": "2019",
   "Rated": "PG-13",
   "Released": "27 Nov 2019",
-  "Runtime": "130 min",
+  "Runtime": "131 min",
   "Genre": "Comedy, Crime, Drama, Mystery, Thriller",
   "Director": "Rian Johnson",
   "Writer": "Rian Johnson",
@@ -11,12 +11,12 @@
   "Plot": "A detective investigates the death of a patriarch of an eccentric, combative family.",
   "Language": "English, Spanish",
   "Country": "USA",
-  "Awards": "Nominated for 3 Golden Globes. Another 22 wins & 37 nominations.",
+  "Awards": "Nominated for 1 Oscar. Another 39 wins & 84 nominations.",
   "Poster": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
   "Ratings": [
     {
       "Source": "Internet Movie Database",
-      "Value": "8.1/10"
+      "Value": "8.0/10"
     },
     {
       "Source": "Rotten Tomatoes",
@@ -28,8 +28,8 @@
     }
   ],
   "Metascore": "82",
-  "imdbRating": "8.1",
-  "imdbVotes": "66,522",
+  "imdbRating": "8.0",
+  "imdbVotes": "127,616",
   "imdbID": "tt8946378",
   "Type": "movie",
   "DVD": "N/A",
