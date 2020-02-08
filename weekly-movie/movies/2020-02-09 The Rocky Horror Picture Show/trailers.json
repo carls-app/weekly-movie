@@ -1,0 +1,44 @@
+{
+  "trailers": [
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "mYql-6sAYmw",
+      "name": "Darren Bousman on THE ROCKY HORROR PICTURE SHOW",
+      "site": "YouTube",
+      "size": 720,
+      "type": "Featurette",
+      "url": "https://www.youtube.com/watch?v=mYql-6sAYmw"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "7bUc5zi8PXk",
+      "name": "Just Let the Credits Roll and Then You Can Let the Good Times Roll (1990) Company Logo (VHS Capture)",
+      "site": "YouTube",
+      "size": 480,
+      "type": "Featurette",
+      "url": "https://www.youtube.com/watch?v=7bUc5zi8PXk"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "4plqh6obZW4",
+      "name": "The Rocky Horror Picture Show | #TBT Trailer | 20th Century FOX",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "url": "https://www.youtube.com/watch?v=4plqh6obZW4"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "_Ov8yLJkknY",
+      "name": "The Rocky Horror Picture Show - Official Theatrical Trailer 1",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "url": "https://www.youtube.com/watch?v=_Ov8yLJkknY"
+    }
+  ]
+}
