@@ -1,0 +1,64 @@
+{
+  "trailers": [
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "t433PEQGErc",
+      "name": "JOKER - Teaser Trailer",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "url": "https://www.youtube.com/watch?v=t433PEQGErc"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "xRjvmVaFHkk",
+      "name": "JOKER – Final Trailer – Warner Bros.",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "url": "https://www.youtube.com/watch?v=xRjvmVaFHkk"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "jk41yJH3pyQ",
+      "name": "Playing the mad clown | The Straits Times",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Featurette",
+      "url": "https://www.youtube.com/watch?v=jk41yJH3pyQ"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "puva03k1yU0",
+      "name": "JOKER Featurette \"Bringing The Character to Life\" (2019)",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Featurette",
+      "url": "https://www.youtube.com/watch?v=puva03k1yU0"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "4Wau3qa9PAk",
+      "name": "I used to think that my life was a tragedy, but now I realize that its a fucking comedy - Joker 2019",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip",
+      "url": "https://www.youtube.com/watch?v=4Wau3qa9PAk"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "key": "uSnrrnXBG4k",
+      "name": "For my whole life, I didn't know if I even really existed - Joker 2019",
+      "site": "YouTube",
+      "size": 720,
+      "type": "Clip",
+      "url": "https://www.youtube.com/watch?v=uSnrrnXBG4k"
+    }
+  ]
+}
